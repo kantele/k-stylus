@@ -1,5 +1,5 @@
 {
-  "name": "derby-stylus",
+  "name": "k-stylus",
   "version": "0.1.0",
   "description": "Derby plugin to add Stylus support",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codeparty/derby-stylus.git"
+    "url": "git://github.com/kantele/k-stylus.git"
   },
   "keywords": [
     "derby",
@@ -19,9 +19,9 @@
   "author": "Artur Zayats <zag2art@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codeparty/derby-stylus/issues"
+    "url": "https://github.com/kantele/k-stylus/issues"
   },
-  "homepage": "https://github.com/codeparty/derby-stylus",
+  "homepage": "https://github.com/kantele/k-stylus",
   "dependencies": {
     "stylus": "^0.49.1"
   }
