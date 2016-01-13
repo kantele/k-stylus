@@ -24,5 +24,8 @@
   "homepage": "https://github.com/kantele/k-stylus",
   "dependencies": {
     "stylus": "^0.49.1"
+  },
+  "directories": {
+    "example": "example"
   }
 }
