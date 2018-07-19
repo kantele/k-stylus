@@ -1,6 +1,6 @@
 {
   "name": "k-stylus",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Derby plugin to add Stylus support",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/kantele/k-stylus",
   "dependencies": {
-    "stylus": "^0.49.1"
+    "stylus": "*"
   },
   "directories": {
     "example": "example"
